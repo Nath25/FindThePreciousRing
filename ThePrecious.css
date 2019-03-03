@@ -45,9 +45,54 @@
     width : 1110px;
 }
 
-#txtinfo{
-
+#img_info1{
+    width: 75%;
+}
+#img_gollum{
+    width: 55%;
+    height: 75%;
+}
+#txtinfo #txtinfo1{
     font-size: 20px;
+}
+#txtinfo2 {
+    font-size : 15px;
+}   
+
+#Best {
+    font-size  :30px;
+}
+#Ring {
+    font-size  :30px;
+}
+#txtRing{
+    left: 10px;
+    text-align: center;
+}
+#txtgollum{
+    margin-left: 350px;
+}
+#Army {
+    font-size  :30px;
+}
+#Contact{
+    font-size : 30px;
+}
+
+.Admail {
+    font-family: "Amatic SC";
+    padding-left: 20px;
+    
+  }
+  #Message {
+    font-family: "Amatic SC";
+
+  }
+  #footer{
+      background-color: black;
+      
+  }
+ 
 }
 #txtinfo2 {
     font-size : 15px;
